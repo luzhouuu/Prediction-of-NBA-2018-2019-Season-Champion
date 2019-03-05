@@ -1,1 +1,1 @@
-# Prediction-of-NBA-2018-2019-Season-Champion
+# Prediction of NBA 2018-2019 Season Championship
