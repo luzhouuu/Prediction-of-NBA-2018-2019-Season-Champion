@@ -1,24 +1,4 @@
 # Prediction of NBA 2018-2019 Season Championship
-## Contents
- 1 Project: Prediction of NBA 2018-2019 Season Champion \n
+The National Basketball Association (NBA) consists of 30 professional teams located in major cities across the United States and Canada, and divides its season into three major parts: the Regular Season, the Playoffs and the Finals. The top 8 teams in the Reagular season from Western and Eastern respectively will be prompted to the playoffs, and the naissance of NBA Championship will rise in every June. 
 
- 2 Background
- 3 Data
- 3.1 Variable Descriptions
- 3.2 Team Per Game Stats
- 3.2.1 The trend of five basic statistcs
- 3.2.2 Changes in the way of scoring
- 3.3 Team Shooting
- 3.3.1 Comparison of Champion and the average (in Bar Plot)
- 3.3.2 The Heaves Attempts
- 3.3.3 Comparison of Champion and the average (in Radar Plot)
- 3.4 Miscellaneous Stats
- 3.4.1 Comparison of Champion and the average in ORtg, DRtg and 3PAr 3.4.2 Defense Versus Offense and the Public Opinion
- 4 Analysis
- 4.1 Correlation Plot
- 4.2 PCA
- 4.3 Support Vector Machine (SVM)
- 4.3.1 Confusion Matrix
- 4.3.2 ROC Curve
- 4.4 Prediction
- 5 Reference 
+Apparently, the team with the best performance will win the Championship including offense and defense, and I believe these performance could be refelected in the stats. Therefore, I decide to use the Support Vector Machine (SVM) to fit the past 30 years’ Palyoffs and predict the Champion of the current season (2018-2019) (We Are Basket, 2019).
