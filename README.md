@@ -1,6 +1,7 @@
 # Prediction of NBA 2018-2019 Season Championship
 ## Contents
- 1 Project: Prediction of NBA 2018-2019 Season Champion
+ 1 Project: Prediction of NBA 2018-2019 Season Champion \n
+
  2 Background
  3 Data
  3.1 Variable Descriptions
